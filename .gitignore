@@ -205,6 +205,11 @@ PublishScripts/
 # NuGet v3's project.json files produces more ignorable files
 *.nuget.props
 *.nuget.targets
+**/vmax3fpi.dll
+**/vmax3fpix86.dll
+**/VmaxComVe.dll
+ELEPOS_pdsd.7z
+ELEPOS_pdsd/
 
 # Microsoft Azure Build Output
 csx/
