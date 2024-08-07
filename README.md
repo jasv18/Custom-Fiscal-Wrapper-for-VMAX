@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este es un software desarrollado independientemente para facilitar la integración y uso de impresoras fiscales VMAX en otros sistemas. Proporciona una interfaz simple para enviar comandos a la impresora fiscal y manejar impresiones de facturas desde aplicaciones como PHP.
+Este es un software desarrollado independientemente para facilitar la integración y uso de impresoras fiscales VMAX en otros sistemas. Proporciona una interfaz simple para enviar comandos a la impresora fiscal y manejar impresiones de facturas desde aplicaciones que puedan llamar al archivo compilado y pasar un objeto de argumentos de una factura, como por ejemplo PHP, entre otros.
 
 ## Tecnologías Utilizadas
 
